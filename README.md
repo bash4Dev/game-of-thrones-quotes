@@ -1,13 +1,19 @@
-# React + Vite
+# Game of Thrones Quote Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A dynamic website that displays random Game of Thrones quotes with character details, images, and social sharing capabilities.
 
-Currently, two official plugins are available:
+## Features
+- 🗡️ Random character quotes from Game of Thrones
+- 👑 Character details including name, house, and image
+- 📱 Responsive design with medieval-themed styling
+- 📲 Social media sharing buttons (Twitter, Facebook, LinkedIn, WhatsApp)
+- ⚡ Real-time API integration for quotes and images
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## APIs Used
+- **Quotes**: [Game of Thrones Quotes API](https://gameofthronesquotes.xyz/)
+- **Character Images**: [ThronesAPI](https://thronesapi.com/)
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# game-of-thrones-quotes
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/bash4dev/got-quote-generator.git
