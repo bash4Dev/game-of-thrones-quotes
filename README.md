@@ -1,4 +1,4 @@
-# Game of Thrones Quote Generator
+# Game of Thrones Quotes
 
 A dynamic website that displays random Game of Thrones quotes with character details, images, and social sharing capabilities.
 
@@ -16,4 +16,4 @@ A dynamic website that displays random Game of Thrones quotes with character det
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/bash4dev/got-quote-generator.git
+   git clone https://github.com/bash4dev/game-of-thrones-quotes.git
